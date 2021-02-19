@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\Wissel\OneDrive\Desktop\università\Programmazione a Oggetti\Lavoro_finale\.metadata\.plugins\org.eclipse.jdt.core
+1671692264.index
+57750945.index
